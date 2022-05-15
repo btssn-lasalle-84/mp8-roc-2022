@@ -72,3 +72,4 @@ VALUES (3,0,0,0,0,1);
 ## Auteur
 
 - [Baptiste cochet](https://github.com/bcochet)
+- [Salaun matthieu](https://github.com/m-salaun)
