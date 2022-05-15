@@ -71,4 +71,4 @@ VALUES (3,0,0,0,0,1);
 
 ## Auteur
 
-- [Benjamin GAUME](https://github.com/b-gaume)
+- [Baptiste cochet](https://github.com/bcochet)
